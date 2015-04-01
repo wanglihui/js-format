@@ -1,0 +1,26 @@
+{
+  "name": "js-format",
+  "version": "0.1.0",
+  "description": "js format like c printf(\"%s, hello world\", [\"wangdana\"])",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanglihui/js-format.git"
+  },
+  "keywords": [
+    "js",
+    "format"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wanglihui/js-format/issues"
+  },
+  "homepage": "https://github.com/wanglihui/js-format"
+}
